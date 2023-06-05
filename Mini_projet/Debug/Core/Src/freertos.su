@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:125:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:139:6:MX_FREERTOS_Init	152	static
+../Core/Src/freertos.c:211:6:StartDefaultTask	16	static
+../Core/Src/freertos.c:231:6:affichage_1	464	static
+../Core/Src/freertos.c:401:6:update_state	144	static
+../Core/Src/freertos.c:466:6:touch_confirm	56	static
